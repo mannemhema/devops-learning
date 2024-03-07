@@ -1,3 +1,0 @@
-radom text
-This is for sure going to create merge conflict
-This can create merge conflict
